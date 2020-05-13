@@ -1,4 +1,6 @@
 # chatbot
+#seperately run server and client file in python idle 
+#First run server and then client.Copy the ip generated at server and paste in the client output and u r ready to go :)
 
 Server.py:
 
